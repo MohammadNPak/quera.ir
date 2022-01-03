@@ -1,0 +1,1 @@
+[یافتن عدد اول](https://quera.ir/problemset/593/)

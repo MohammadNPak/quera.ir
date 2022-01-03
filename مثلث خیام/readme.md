@@ -1,0 +1,1 @@
+[مثلث خیام](https://quera.ir/problemset/595/)

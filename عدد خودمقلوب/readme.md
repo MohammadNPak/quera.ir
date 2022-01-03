@@ -1,0 +1,1 @@
+[عدد خودمقلوب](https://quera.ir/problemset/617/)

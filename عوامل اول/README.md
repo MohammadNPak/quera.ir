@@ -1,0 +1,1 @@
+[عوامل اول](https://quera.ir/problemset/298/)

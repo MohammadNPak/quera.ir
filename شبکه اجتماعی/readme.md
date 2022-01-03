@@ -1,0 +1,1 @@
+[شبکه اجتماعی](https://quera.ir/problemset/9742/)

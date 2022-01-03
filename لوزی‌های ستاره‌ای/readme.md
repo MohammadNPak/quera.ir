@@ -1,0 +1,1 @@
+[لوزی‌های ستاره‌ای](https://quera.ir/problemset/9773/)

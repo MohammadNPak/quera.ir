@@ -1,0 +1,1 @@
+[عدد خوب](https://quera.ir/problemset/66861/)

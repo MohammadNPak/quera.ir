@@ -1,0 +1,1 @@
+[اول‌بینی](https://quera.ir/problemset/649/)

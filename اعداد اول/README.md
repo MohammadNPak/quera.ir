@@ -1,0 +1,1 @@
+[اعداد اول](https://quera.ir/problemset/293/)

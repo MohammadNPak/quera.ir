@@ -1,0 +1,1 @@
+[کلاس کد!](https://quera.ir/problemset/66864/)

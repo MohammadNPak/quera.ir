@@ -1,0 +1,1 @@
+[مبنا](https://quera.ir/problemset/594/)

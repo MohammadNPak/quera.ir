@@ -1,0 +1,1 @@
+[فاکتوریل](https://quera.ir/problemset/589/)

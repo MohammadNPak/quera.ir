@@ -1,0 +1,1 @@
+[چاپ مربع](https://quera.ir/problemset/591/)

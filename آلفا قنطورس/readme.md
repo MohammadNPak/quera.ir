@@ -1,0 +1,1 @@
+[آلفا قنطورس](https://quera.ir/problemset/66859/)

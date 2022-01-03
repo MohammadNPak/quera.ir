@@ -1,0 +1,1 @@
+[دترمینان ماتریس‌ها](https://quera.ir/problemset/608/)

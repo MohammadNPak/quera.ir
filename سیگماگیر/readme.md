@@ -1,0 +1,1 @@
+[سیگماگیر](https://quera.ir/problemset/647/)

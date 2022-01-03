@@ -1,0 +1,1 @@
+[توان دو](https://quera.ir/problemset/616/)

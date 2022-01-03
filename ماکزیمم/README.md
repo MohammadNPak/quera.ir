@@ -1,0 +1,1 @@
+[ماکزیمم](https://quera.ir/problemset/588/)

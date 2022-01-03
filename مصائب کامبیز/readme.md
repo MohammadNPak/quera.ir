@@ -1,0 +1,1 @@
+[مصائب کامبیز](https://quera.ir/problemset/66862/)

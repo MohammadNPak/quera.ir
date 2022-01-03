@@ -1,0 +1,1 @@
+[مربع خاص](https://quera.ir/problemset/296/)

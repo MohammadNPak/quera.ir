@@ -1,0 +1,1 @@
+[مبنای آینه‌ای](https://quera.ir/problemset/651/)
