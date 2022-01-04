@@ -30,7 +30,8 @@ class Manager:
                     main_readme.write("|")
                     for language in question_path.glob("*"):
                         if language.is_dir():
-                            main_readme.write(fr"[{str(language.relative_to(question_path))}]({str(language.relative_to(root_path)).replace(' ','%20')}), ")
+                            solution_path = str(language.relative_to(root_path)).replace(' ','%20').replace('\\','/')
+                            main_readme.write(f"[{str(language.relative_to(question_path))}]({solution_path}), ")
                     main_readme.write("|\n")
 
                     # print(question_path.relative_to(root_path))
