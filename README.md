@@ -30,9 +30,12 @@ showmeyourcode.ir
 |24|[مثلث خیام](https://quera.ir/problemset/595/)|[python](مثلث%20خیام/python), |[readme](مثلث%20خیام/readme.md), [question's pdf](مثلث%20خیام/دانشگاهی%20_%20مثلث%20خیام.pdf), |
 |25|[مربع خاص](https://quera.ir/problemset/296/)|[python](مربع%20خاص/python), |[readme](مربع%20خاص/README.md), [question's pdf](مربع%20خاص/دانشگاهی%20_%20مربع%20خاص.pdf), |
 |26|[مصائب کامبیز](https://quera.ir/problemset/66862/)|[python](مصائب%20کامبیز/python), |[readme](مصائب%20کامبیز/readme.md), [question's pdf](مصائب%20کامبیز/دانشگاهی%20_%20مصائب%20کامبیز.pdf), |
-|27|[هگزا نوردی](https://quera.ir/problemset/127291/)|[python](هگزانوردی/python), |[readme](هگزانوردی/README.md), [question's pdf](هگزانوردی/مسابقه%20_%20هگزانوردی.pdf), |
-|28|[چاپ لوزی](https://quera.ir/problemset/618/)|[python](چاپ%20لوزی/python), |[readme](چاپ%20لوزی/readme.md), [question's pdf](چاپ%20لوزی/دانشگاهی%20_%20چاپ%20لوزی.pdf), |
-|29|[چاپ مربع](https://quera.ir/problemset/591/)|[python](چاپ%20مربع/python), |[readme](چاپ%20مربع/readme.md), [question's pdf](چاپ%20مربع/دانشگاهی%20_%20چاپ%20مربع.pdf), |
-|30|[کامل بودن یا نبودن](https://quera.ir/problemset/282/)|[python](کامل%20بودن%20یا%20نبودن/python), |[readme](کامل%20بودن%20یا%20نبودن/README.md), [question's pdf](کامل%20بودن%20یا%20نبودن/دانشگاهی%20_%20کامل%20بودن%20یا%20نبودن.pdf), |
-|31|[کلاس کد!](https://quera.ir/problemset/66864/)|[python](کلاس%20کد!/python), |[readme](کلاس%20کد!/readme.md), [question's pdf](کلاس%20کد!/دانشگاهی%20_%20کلاس%20کد!.pdf), |
-|32|[یافتن عدد اول](https://quera.ir/problemset/593/)|[python](یافتن%20عدد%20اول/python), |[readme](یافتن%20عدد%20اول/readme.md), [question's pdf](یافتن%20عدد%20اول/دانشگاهی%20_%20یافتن%20عدد%20اول.pdf), |
+|27|[مقسوم‌علیه‌های دردسرساز](https://quera.org/problemset/33045/)|[python](مقسوم‌علیه‌های%20دردسرساز/python), |[readme](مقسوم‌علیه‌های%20دردسرساز/readme.md), [question's pdf](مقسوم‌علیه‌های%20دردسرساز/تمرین%20دوره%20ای%20اول%20_%20مقسوم_علیه_های%20دردسرساز.pdf), |
+|28|[هگزا نوردی](https://quera.ir/problemset/127291/)|[python](هگزانوردی/python), |[readme](هگزانوردی/README.md), [question's pdf](هگزانوردی/مسابقه%20_%20هگزانوردی.pdf), |
+|29|[چاپ لوزی](https://quera.ir/problemset/618/)|[python](چاپ%20لوزی/python), |[readme](چاپ%20لوزی/readme.md), [question's pdf](چاپ%20لوزی/دانشگاهی%20_%20چاپ%20لوزی.pdf), |
+|30|[چاپ مربع](https://quera.ir/problemset/591/)|[python](چاپ%20مربع/python), |[readme](چاپ%20مربع/readme.md), [question's pdf](چاپ%20مربع/دانشگاهی%20_%20چاپ%20مربع.pdf), |
+|31|[کامل بودن یا نبودن](https://quera.ir/problemset/282/)|[python](کامل%20بودن%20یا%20نبودن/python), |[readme](کامل%20بودن%20یا%20نبودن/README.md), [question's pdf](کامل%20بودن%20یا%20نبودن/دانشگاهی%20_%20کامل%20بودن%20یا%20نبودن.pdf), |
+|32|[کلاس کد!](https://quera.ir/problemset/66864/)|[python](کلاس%20کد!/python), |[readme](کلاس%20کد!/readme.md), [question's pdf](کلاس%20کد!/دانشگاهی%20_%20کلاس%20کد!.pdf), |
+|33|
+|[python](گزارش%20کار/python), |[readme](گزارش%20کار/readme.md), [question's pdf](گزارش%20کار/مسابقه%20_%20گزارش%20کار.pdf), |
+|34|[یافتن عدد اول](https://quera.ir/problemset/593/)|[python](یافتن%20عدد%20اول/python), |[readme](یافتن%20عدد%20اول/readme.md), [question's pdf](یافتن%20عدد%20اول/دانشگاهی%20_%20یافتن%20عدد%20اول.pdf), |
