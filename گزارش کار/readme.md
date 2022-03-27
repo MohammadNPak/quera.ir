@@ -1,2 +1,1 @@
-
 [گزارش کار](https://quera.org/problemset/49535/)

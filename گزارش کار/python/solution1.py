@@ -1,4 +1,3 @@
-# گزارش کار
 # https://quera.org/problemset/49535/
 
 n,k = input().split()
