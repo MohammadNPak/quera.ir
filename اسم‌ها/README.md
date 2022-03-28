@@ -1,0 +1,1 @@
+[اسم‌ها](https://quera.org/problemset/2529/)

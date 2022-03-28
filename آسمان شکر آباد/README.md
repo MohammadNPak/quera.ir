@@ -1,0 +1,1 @@
+[آسمان شکر آباد](https://quera.org/problemset/6082/)

@@ -1,0 +1,1 @@
+[صدگان خسته](https://quera.org/problemset/3406/)

@@ -1,0 +1,1 @@
+[رژیم سخت](https://quera.org/problemset/20256/)

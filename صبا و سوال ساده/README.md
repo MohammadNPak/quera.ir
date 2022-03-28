@@ -1,0 +1,1 @@
+[صبا و سوال ساده](https://quera.org/problemset/31025/)

@@ -1,0 +1,1 @@
+[دوربین مداربسته](https://quera.org/problemset/2794/)

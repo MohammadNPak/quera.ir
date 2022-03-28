@@ -1,0 +1,1 @@
+[دو نقطه خط](https://quera.org/problemset/3414/)
