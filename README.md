@@ -19,7 +19,7 @@ showmeyourcode.ir
 |13|[تاریخ تولد](https://quera.ir/problemset/615/)|[python](تاریخ%20تولد/python), |[readme](تاریخ%20تولد/readme.md), [question's pdf](تاریخ%20تولد/دانشگاهی%20_%20تاریخ%20تولد.pdf), |
 |14|[تست بینایی](https://quera.org/problemset/2659/)|[python](تست%20بینایی/python), |[readme](تست%20بینایی/README.md), [question's pdf](تست%20بینایی/مسابقه%20_%20تست%20بینایی.pdf), |
 |15|[تو چقدر اضافه وزن داری؟](https://quera.org/problemset/3404/)|[python](تو%20چقدر%20اضافه%20وزن%20داری؟/python), |[readme](تو%20چقدر%20اضافه%20وزن%20داری؟/README.md), [question's pdf](تو%20چقدر%20اضافه%20وزن%20داری؟/مسابقه%20_%20تو%20چقدر%20اضافه%20وزن%20داری؟.pdf), |
-|16|[توان دو](https://quera.ir/problemset/616/)|[python](توان%20دو/python), |[readme](توان%20دو/readme.md), [question's pdf](توان%20دو/دانشگاهی%20_%20توان%20دو.pdf), |
+|16|[توان دو](https://quera.ir/problemset/616/)|[c](توان%20دو/c), [cpp](توان%20دو/cpp), [csharp](توان%20دو/csharp), [python](توان%20دو/python), |[readme](توان%20دو/readme.md), [question's pdf](توان%20دو/دانشگاهی%20_%20توان%20دو.pdf), |
 |17|[تک‌رقمی](https://quera.org/problemset/3539/)|[python](تک‌رقمی/python), |[readme](تک‌رقمی/README.md), [question's pdf](تک‌رقمی/مسابقه%20_%20تک_رقمی.pdf), |
 |18|[جمع اعداد](https://quera.ir/problemset/637/)|[python](جمع%20اعداد/python), |[readme](جمع%20اعداد/readme.md), [question's pdf](جمع%20اعداد/دانشگاهی%20_%20جمع%20اعداد.pdf), |
 |19|[حلزون مختصاتی](https://quera.ir/problemset/597/)|[python](حلزون%20مختصاتی/python), |[readme](حلزون%20مختصاتی/readme.md), [question's pdf](حلزون%20مختصاتی/دانشگاهی%20_%20حلزون%20مختصاتی.pdf), |
