@@ -1,32 +1,107 @@
-آلفا قنطورس
-اعداد اول
-اعداد فیثاغورثی
-اول‌بینی
-ب.م.م و ک.م.م
-تابع نمایی
-تاریخ تولد
-توان دو
-جمع اعداد
-حلزون مختصاتی
-دترمینان ماتریس‌ها
-سیگماگیر
-شبکه اجتماعی
-ضرب ماتریس‌ها
-عدد خوب
-عدد خودمقلوب
-عدد چاپ‌کن
-عوامل اول
-فاکتوریل
-لوزی‌های ستاره‌ای
-ماکزیمم
-مبنا
-مبنای آینه‌ای
-مثلث خیام
-مربع خاص
-مصائب کامبیز
-هگزانوردی
-چاپ لوزی
-چاپ مربع
-کامل بودن یا نبودن
-کلاس کد!
-یافتن عدد اول
+university
+کامل بودن یا نبودن,https://quera.org/problemset/university/282
+اعداد فیثاغورثی,https://quera.org/problemset/university/280
+شبکه اجتماعی,https://quera.org/problemset/university/9742
+آلفا قنطورس,https://quera.org/problemset/university/66859
+یافتن عدد اول,https://quera.org/problemset/university/593
+فاکتوریل,https://quera.org/problemset/university/589
+چاپ مربع,https://quera.org/problemset/university/591
+چاپ لوزی,https://quera.org/problemset/university/618
+لوزی‌های ستاره‌ای,https://quera.org/problemset/university/9773
+توان دو,https://quera.org/problemset/university/616
+ب.م.م و ک.م.م,https://quera.org/problemset/university/590
+جمع اعداد,https://quera.org/problemset/university/637
+مصائب کامبیز,https://quera.org/problemset/university/66862
+تاریخ تولد,https://quera.org/problemset/university/615
+کلاس کد!,https://quera.org/problemset/university/66864
+عدد چاپ‌کن,https://quera.org/problemset/university/9774
+اول‌بینی,https://quera.org/problemset/university/649
+مربع خاص,https://quera.org/problemset/university/296
+ماکزیمم,https://quera.org/problemset/university/588
+عدد خودمقلوب,https://quera.org/problemset/university/617
+سیگماگیر,https://quera.org/problemset/university/647
+اعداد اول,https://quera.org/problemset/university/293
+تابع نمایی,https://quera.org/problemset/university/297
+عوامل اول,https://quera.org/problemset/university/298
+دترمینان ماتریس‌ها,https://quera.org/problemset/university/608
+مبنای آینه‌ای,https://quera.org/problemset/university/651
+مثلث خیام,https://quera.org/problemset/university/595
+ضرب ماتریس‌ها,https://quera.org/problemset/university/607
+مبنا,https://quera.org/problemset/university/594
+حلزون مختصاتی,https://quera.org/problemset/university/597
+سه‌تایی فیثاغورثی,https://quera.org/problemset/university/654
+عدد خوب,https://quera.org/problemset/university/66861
+contest
+یخدارچی,https://quera.org/problemset/contest/3429
+طرح ترافیک,https://quera.org/problemset/contest/110017
+C : Valid Emails,https://quera.org/problemset/contest/82380
+صبا و سوال ساده,https://quera.org/problemset/contest/31025
+ام‌سین,https://quera.org/problemset/contest/28947
+دایره عجیب,https://quera.org/problemset/contest/34081
+A: Petrol,https://quera.org/problemset/contest/82378
+سوال برنامه نویسی برنامه نویسی سوال,https://quera.org/problemset/contest/3408
+دو تکه چوب,https://quera.org/problemset/contest/138021
+یک ساعت,https://quera.org/problemset/contest/2886
+دو نقطه خط,https://quera.org/problemset/contest/3414
+صدگان خسته,https://quera.org/problemset/contest/3406
+روز آزادی بیان در برره,https://quera.org/problemset/contest/10162
+بلندگو,https://quera.org/problemset/contest/3430
+نوبرانه,https://quera.org/problemset/contest/104588
+تست بینایی,https://quera.org/problemset/contest/2659
+اسم‌ها,https://quera.org/problemset/contest/2529
+کمک به کاپی,https://quera.org/problemset/contest/8838
+خُب باقر سرما خورده,https://quera.org/problemset/contest/10231
+جشنواره,https://quera.org/problemset/contest/104589
+تک‌رقمی,https://quera.org/problemset/contest/3539
+سوراخ موش,https://quera.org/problemset/contest/91712
+شارژ موبایل,https://quera.org/problemset/contest/17244
+دوربین مداربسته,https://quera.org/problemset/contest/2794
+B : Gold Rush,https://quera.org/problemset/contest/82379
+شطرنج حرفه‌ای,https://quera.org/problemset/contest/2636
+حساب بی‌حساب,https://quera.org/problemset/contest/110019
+پیاده‌رو,https://quera.org/problemset/contest/104590
+نمایشگاه مجازی,https://quera.org/problemset/contest/110015
+بهداشت و سلامت,https://quera.org/problemset/contest/51865
+مقسوم‌علیه‌های دردسرساز,https://quera.org/problemset/contest/33045
+هندونه‌خوری,https://quera.org/problemset/contest/35253
+آسمان شکر آباد,https://quera.org/problemset/contest/6082
+استارت-آپ باکلاس,https://quera.org/problemset/contest/10326
+جدول ضرب گنده,https://quera.org/problemset/contest/3409
+فرمانده‌ی بازنشسته,https://quera.org/problemset/contest/72874
+رژیم سخت,https://quera.org/problemset/contest/20256
+جاده کشی,https://quera.org/problemset/contest/2637
+رامین و مسئله‌ی ریاضی,https://quera.org/problemset/contest/102261
+هگزانوردی,https://quera.org/problemset/contest/127291
+رشته‌ی رمزی,https://quera.org/problemset/contest/106796
+رشته فیبوناچی,https://quera.org/problemset/contest/17675
+گردو شکستم,https://quera.org/problemset/contest/3540
+هندزفری‌ها,https://quera.org/problemset/contest/110014
+ساده تر,https://quera.org/problemset/contest/3403
+گزارش کار,https://quera.org/problemset/contest/49535
+همایش زندگی بهتر,https://quera.org/problemset/contest/10325
+مشق امشب باقر,https://quera.org/problemset/contest/10230
+چاپ برعکس,https://quera.org/problemset/contest/3405
+خر در چمن فراوونه!!,https://quera.org/problemset/contest/4065
+آخ جون طرف نیست!,https://quera.org/problemset/contest/3538
+تو چقدر اضافه وزن داری؟,https://quera.org/problemset/contest/3404
+تیم کشی,https://quera.org/problemset/contest/80651
+یک سوال ساده,https://quera.org/problemset/contest/2885
+سوال زرد,https://quera.org/problemset/contest/3537
+technology
+یک دسترسی خیلی ساده,https://quera.org/problemset/technology/106386
+چت کوئرا,https://quera.org/problemset/technology/98444
+Input Mask,https://quera.org/problemset/technology/66546
+پیدایِش!,https://quera.org/problemset/technology/102250
+مقایسه‌گر,https://quera.org/problemset/technology/102248
+قَطار یا قاطِر؟,https://quera.org/problemset/technology/102252
+ثبت‌نام,https://quera.org/problemset/technology/21205
+مُجَزا,https://quera.org/problemset/technology/129726
+تَخَطّی‌گَری,https://quera.org/problemset/technology/129728
+خطِ فرمان,https://quera.org/problemset/technology/102249
+بلاگ,https://quera.org/problemset/technology/14742
+کوئرا کانتست,https://quera.org/problemset/technology/102251
+نقطه خط,https://quera.org/problemset/technology/98447
+Input Mask,https://quera.org/problemset/technology/66546
+انتخاب‌کننده تودرتو,https://quera.org/problemset/technology/66543
+جدول‌بازی,https://quera.org/problemset/technology/18850
+چت کوئرا,https://quera.org/problemset/technology/98444

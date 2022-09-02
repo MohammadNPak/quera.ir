@@ -1,0 +1,4 @@
+.venv
+get_solution.py
+geckodriver.log
+selected_questions.txt
