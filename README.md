@@ -6,7 +6,7 @@ showmeyourcode.ir
 |-|-|-|-|
 |1|[آخ جون طرف نیست!](https://quera.org/problemset/3538/)|[python](آخ%20جون%20طرف%20نیست!/python), |[readme](آخ%20جون%20طرف%20نیست!/README.md), [question's pdf](آخ%20جون%20طرف%20نیست!/مسابقه%20_%20آخ%20جون%20طرف%20نیست!.pdf), |
 |2|[آسمان شکر آباد](https://quera.org/problemset/6082/)|[python](آسمان%20شکر%20آباد/python), |[readme](آسمان%20شکر%20آباد/README.md), [question's pdf](آسمان%20شکر%20آباد/مسابقه%20_%20آسمان%20شکر%20آباد.pdf), |
-|3|[آلفا قنطورس](https://quera.ir/problemset/66859/)|[python](آلفا%20قنطورس/python), |[readme](آلفا%20قنطورس/readme.md), [question's pdf](آلفا%20قنطورس/دانشگاهی%20_%20آلفا%20قنطورس.pdf), |
+|3|[آلفا قنطورس](https://quera.ir/problemset/66859/)|[js](آلفا%20قنطورس/js), [python](آلفا%20قنطورس/python), |[readme](آلفا%20قنطورس/readme.md), [question's pdf](آلفا%20قنطورس/دانشگاهی%20_%20آلفا%20قنطورس.pdf), |
 |4|[استارت-آپ باکلاس](https://quera.org/problemset/10326/)|[python](استارت-آپ%20باکلاس/python), |[readme](استارت-آپ%20باکلاس/README.md), [question's pdf](استارت-آپ%20باکلاس/مسابقه%20_%20استارت-آپ%20باکلاس.pdf), |
 |5|[اسم‌ها](https://quera.org/problemset/2529/)|[python](اسم‌ها/python), |[readme](اسم‌ها/README.md), [question's pdf](اسم‌ها/مسابقه%20_%20اسم_ها.pdf), |
 |6|[اعداد اول](https://quera.ir/problemset/293/)|[python](اعداد%20اول/python), |[readme](اعداد%20اول/README.md), [question's pdf](اعداد%20اول/دانشگاهی%20_%20اعداد%20اول.pdf), |
@@ -62,3 +62,4 @@ showmeyourcode.ir
 |56|[گردو شکستم](https://quera.org/problemset/3540/)|[python](گردو%20شکستم/python), |[readme](گردو%20شکستم/README.md), [question's pdf](گردو%20شکستم/مسابقه%20_%20گردو%20شکستم.pdf), |
 |57|[گزارش کار](https://quera.org/problemset/49535/)|[python](گزارش%20کار/python), |[readme](گزارش%20کار/readme.md), [question's pdf](گزارش%20کار/مسابقه%20_%20گزارش%20کار.pdf), |
 |58|[یافتن عدد اول](https://quera.ir/problemset/593/)|[python](یافتن%20عدد%20اول/python), |[readme](یافتن%20عدد%20اول/readme.md), [question's pdf](یافتن%20عدد%20اول/دانشگاهی%20_%20یافتن%20عدد%20اول.pdf), |
+|59|[یخدارچی](https://quera.org/problemset/3429/)|[node.js](یخدارچی/node.js), [python](یخدارچی/python), |[readme](یخدارچی/README.md), [question's pdf](یخدارچی/مسابقه%20_%20یخدارچی.pdf), |
