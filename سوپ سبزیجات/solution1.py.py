@@ -4,3 +4,4 @@ if n*k<= s :
     print ("Kafie!")
 else :
     print ("Na! yeki bayad bere sabzi bekhare")
+    
