@@ -1,1 +1,0 @@
-[رشته چکر](https://quera.org/problemset/106795/)

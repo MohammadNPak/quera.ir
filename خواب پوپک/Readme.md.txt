@@ -1,1 +1,0 @@
-[خواب پوپک](https://quera.org/problemset/15124/)

@@ -1,1 +1,0 @@
-[کلمه کلمه](https://quera.org/problemset/108665/)
