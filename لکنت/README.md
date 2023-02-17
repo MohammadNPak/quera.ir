@@ -1,0 +1,1 @@
+[لکنت](https://quera.org/problemset/2530/)
