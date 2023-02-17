@@ -1,0 +1,1 @@
+[مشق_امشب_باقر](https://quera.org/problemset/10230/)
