@@ -1,0 +1,1 @@
+[چاپ_برعکس](https://quera.org/problemset/3405/)
