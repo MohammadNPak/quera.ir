@@ -1,0 +1,1 @@
+[الاغ گاونما](https://quera.org/problemset/72878/)
