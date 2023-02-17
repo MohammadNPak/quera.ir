@@ -1,0 +1,1 @@
+[چیدمان](https://quera.org/problemset/2534/)
