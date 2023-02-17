@@ -1,0 +1,1 @@
+[بازی کلمه ها](https://quera.org/problemset/87181/)
