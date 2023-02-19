@@ -1,0 +1,1 @@
+[نوبرانه](https://quera.org/problemset/104588/)

@@ -1,0 +1,1 @@
+[کلید چراغ](https://quera.org/problemset/49028/)
