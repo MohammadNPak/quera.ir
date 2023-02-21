@@ -1,0 +1,1 @@
+[فاکتوریسم](https://quera.org/problemset/76277/)
