@@ -1,3 +1,5 @@
+# https://quera.org/problemset/49028/
+
 n=int (input())
 i=0
 s=0

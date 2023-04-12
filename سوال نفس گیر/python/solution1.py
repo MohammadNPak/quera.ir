@@ -1,3 +1,4 @@
+# https://quera.org/problemset/26651/
 num,sum=int(input()),0
 listtest1,listtest2=list(input().split()),list(input().split())
 for i in range(num):

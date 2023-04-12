@@ -1,3 +1,4 @@
+# https://quera.org/problemset/10230/
 degrees = input().split()
 a = int(degrees[0])
 b = int(degrees[1])

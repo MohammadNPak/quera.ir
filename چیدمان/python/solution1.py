@@ -1,3 +1,4 @@
+# https://quera.org/problemset/2534/
 column_number=int(input())
 column_height=[]
 a=0

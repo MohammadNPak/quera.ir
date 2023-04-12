@@ -1,3 +1,4 @@
+# https://quera.org/problemset/108665/
 name = input()
 
 vowel_list=["a","e","i","o","u"]

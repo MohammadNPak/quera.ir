@@ -1,3 +1,4 @@
+# https://quera.org/problemset/87181/
 
 def words_check(text):
     text = text.split()

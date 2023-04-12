@@ -1,3 +1,4 @@
+# https://quera.org/problemset/72881/
 n,k,s=input().split()
 n,k,s=int(n),float(k),float(s),
 if n*k<= s :

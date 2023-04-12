@@ -1,3 +1,5 @@
+# https://quera.org/problemset/72878/
+
 inpt = input()
 inpt = inpt.split()
 t = int(inpt[0]); a = int(inpt[1]); b = int(inpt[2])

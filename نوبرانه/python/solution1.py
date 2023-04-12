@@ -1,4 +1,4 @@
-
+# https://quera.org/problemset/104588/
 ghermezi=0
 darsad=input().split()
 for i in darsad :

@@ -1,3 +1,4 @@
+# https://quera.org/problemset/91712/
 x = input().split()
 mouse = int(x[0])
 hole = int(x[1])
