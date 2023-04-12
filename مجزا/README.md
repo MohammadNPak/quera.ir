@@ -1,1 +1,1 @@
-(مجزا)[https://quera.org/problemset/129726/]
+[مجزا](https://quera.org/problemset/129726/)

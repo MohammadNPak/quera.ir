@@ -1,1 +1,1 @@
-(پیدایش)[https://quera.org/problemset/102250/]
+[پیدایش](https://quera.org/problemset/102250/)

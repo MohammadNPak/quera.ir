@@ -1,3 +1,4 @@
+# https://quera.org/problemset/102250/
 resault = 0
 
 

@@ -1,1 +1,1 @@
-(شطرنج میوه ای)[https://quera.org/problemset/60134/]
+[شطرنج میوه ای](https://quera.org/problemset/60134/)
