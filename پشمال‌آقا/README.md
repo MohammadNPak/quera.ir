@@ -1,0 +1,1 @@
+[پشمال‌آقا](https://quera.org/problemset/72877/)
