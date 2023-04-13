@@ -1,3 +1,4 @@
+# https://quera.org/problemset/15124/
 nums = input().split()
 a,b,x= int(nums[0]),int(nums[1]),int(nums[2])
 
