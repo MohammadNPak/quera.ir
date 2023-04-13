@@ -1,3 +1,4 @@
+# https://quera.org/problemset/3405/
 nums = []
 while True:
     num = input()

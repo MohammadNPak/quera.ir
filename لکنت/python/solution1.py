@@ -1,3 +1,4 @@
+# https://quera.org/problemset/2530/
 str1=input()
 en=1
 for i in str1:
