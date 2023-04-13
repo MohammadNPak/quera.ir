@@ -40,13 +40,13 @@ showmeyourcode.ir
 |34|[دوربین مداربسته](https://quera.org/problemset/2794/)|[python](دوربین%20مداربسته/python), |[readme](دوربین%20مداربسته/README.md), [question's pdf](دوربین%20مداربسته/مسابقه%20_%20دوربین%20مداربسته.pdf), |
 |35|[رشته فیبوناچی](https://quera.org/problemset/17675/)|[python](رشته%20فیبوناچی/python), |[readme](رشته%20فیبوناچی/README.md), [question's pdf](رشته%20فیبوناچی/مسابقه%20_%20رشته%20فیبوناچی.pdf), |
 |36|[رشته چکر](https://quera.org/problemset/106795/)|[python](رشته%20چکر/python), |[readme](رشته%20چکر/Readme.md), [question's pdf](رشته%20چکر/رشته%20چکر.pdf), |
-|37|[روز_آزادی_بیان_در_برره](https://quera.org/problemset/10162/)|[python](روز_آزادی_بیان_در_برره/python), |[readme](روز_آزادی_بیان_در_برره/README.md), [question's pdf](روز_آزادی_بیان_در_برره/مسابقه%20_%20روز%20آزادی%20بیان%20در%20برره.pdf), |
+|37|[روز_آزادی_بیان_در_برره](https://quera.org/problemset/10162/)|[python](روز%20آزادی%20بیان%20در%20برره/python), |[readme](روز%20آزادی%20بیان%20در%20برره/README.md), [question's pdf](روز%20آزادی%20بیان%20در%20برره/مسابقه%20_%20روز%20آزادی%20بیان%20در%20برره.pdf), |
 |38|[رژیم سخت](https://quera.org/problemset/20256/)|[python](رژیم%20سخت/python), |[readme](رژیم%20سخت/README.md), [question's pdf](رژیم%20سخت/مسابقه%20_%20رژیم%20سخت.pdf), |
 |39|[ساده تر](https://quera.org/problemset/3403/)|[python](ساده%20تر/python), |[readme](ساده%20تر/README.md), [question's pdf](ساده%20تر/مسابقه%20_%20ساده%20تر.pdf), |
 |40|[سوال برنامه نویسی برنامه نویسی سوال](https://quera.org/problemset/3408/)|[python](سوال%20برنامه%20نویسی%20برنامه%20نویسی%20سوال/python), |[readme](سوال%20برنامه%20نویسی%20برنامه%20نویسی%20سوال/README.md), [question's pdf](سوال%20برنامه%20نویسی%20برنامه%20نویسی%20سوال/مسابقه%20_%20سوال%20برنامه%20نویسی%20برنامه%20نویسی%20سوال.pdf), |
 |41|[سوال زرد](https://quera.org/problemset/3537/)|[python](سوال%20زرد/python), |[readme](سوال%20زرد/README.md), [question's pdf](سوال%20زرد/مسابقه%20_%20سوال%20زرد.pdf), |
 |42|[سوال-نفس-گیر](https://quera.org/problemset/26651/)|[python](سوال%20نفس%20گیر/python), |[readme](سوال%20نفس%20گیر/README.md), [question's pdf](سوال%20نفس%20گیر/مسابقه%20_%20سوال%20نفس_گیر.pdf), |
-|43|[سوراخ_موش](https://quera.org/problemset/91712/)|[python](سوراخ_موش/python), |[readme](سوراخ_موش/README.md), [question's pdf](سوراخ_موش/مسابقه%20_%20سوراخ%20موش.pdf), |
+|43|[سوراخ_موش](https://quera.org/problemset/91712/)|[python](سوراخ%20موش/python), |[readme](سوراخ%20موش/README.md), [question's pdf](سوراخ%20موش/مسابقه%20_%20سوراخ%20موش.pdf), |
 |44|[سوپ سبزیجات](https://quera.org/problemset/72881/)|[python](سوپ%20سبزیجات/python), |[readme](سوپ%20سبزیجات/README.md), [question's pdf](سوپ%20سبزیجات/مسابقه%20_%20سوپ%20سبزیجات.pdf), |
 |45|[سیگماگیر](https://quera.ir/problemset/647/)|[python](سیگماگیر/python), |[readme](سیگماگیر/readme.md), [question's pdf](سیگماگیر/دانشگاهی%20_%20سیگماگیر.pdf), |
 |46|[شارژ موبایل](https://quera.org/problemset/17244/)|[python](شارژ%20موبایل/python), |[readme](شارژ%20موبایل/README.md), [question's pdf](شارژ%20موبایل/مسابقه%20_%20شارژ%20موبایل.pdf), |
@@ -84,9 +84,9 @@ showmeyourcode.ir
 |78|[هگزا نوردی](https://quera.ir/problemset/127291/)|[python](هگزانوردی/python), |[readme](هگزانوردی/README.md), [question's pdf](هگزانوردی/مسابقه%20_%20هگزانوردی.pdf), |
 |79|[پشمال‌آقا](https://quera.org/problemset/72877/)|[python](پشمال‌آقا/python), |[readme](پشمال‌آقا/README.md), [question's pdf](پشمال‌آقا/پشمال‌آقا.pdf), |
 |80|[پیدایش](https://quera.org/problemset/102250/)|[python](پیدایش/python), |[readme](پیدایش/README.md), [question's pdf](پیدایش/پیدایش.pdf), |
-|81|[چاپ لوزی](https://quera.ir/problemset/618/)|[python](چاپ%20لوزی/python), |[readme](چاپ%20لوزی/readme.md), [question's pdf](چاپ%20لوزی/دانشگاهی%20_%20چاپ%20لوزی.pdf), |
-|82|[چاپ مربع](https://quera.ir/problemset/591/)|[python](چاپ%20مربع/python), |[readme](چاپ%20مربع/readme.md), [question's pdf](چاپ%20مربع/دانشگاهی%20_%20چاپ%20مربع.pdf), |
-|83|[چاپ_برعکس](https://quera.org/problemset/3405/)|[python](چاپ_برعکس/python), |[readme](چاپ_برعکس/README.md), [question's pdf](چاپ_برعکس/مسابقه%20_%20چاپ%20برعکس.pdf), |
+|81|[چاپ_برعکس](https://quera.org/problemset/3405/)|[python](چاپ%20برعکس/python), |[readme](چاپ%20برعکس/README.md), [question's pdf](چاپ%20برعکس/مسابقه%20_%20چاپ%20برعکس.pdf), |
+|82|[چاپ لوزی](https://quera.ir/problemset/618/)|[python](چاپ%20لوزی/python), |[readme](چاپ%20لوزی/readme.md), [question's pdf](چاپ%20لوزی/دانشگاهی%20_%20چاپ%20لوزی.pdf), |
+|83|[چاپ مربع](https://quera.ir/problemset/591/)|[python](چاپ%20مربع/python), |[readme](چاپ%20مربع/readme.md), [question's pdf](چاپ%20مربع/دانشگاهی%20_%20چاپ%20مربع.pdf), |
 |84|[چیدمان](https://quera.org/problemset/2534/)|[python](چیدمان/python), |[readme](چیدمان/Readme.md), [question's pdf](چیدمان/چیدمان.pdf), |
 |85|[کارمند-زیادی](https://quera.org/problemset/10636/)|[python](کارمند%20زیادی/python), |[readme](کارمند%20زیادی/README.md), [question's pdf](کارمند%20زیادی/مسابقه%20_%20کارمند%20زیادی.pdf), |
 |86|[کامل بودن یا نبودن](https://quera.ir/problemset/282/)|[python](کامل%20بودن%20یا%20نبودن/python), |[readme](کامل%20بودن%20یا%20نبودن/README.md), [question's pdf](کامل%20بودن%20یا%20نبودن/دانشگاهی%20_%20کامل%20بودن%20یا%20نبودن.pdf), |
@@ -100,4 +100,4 @@ showmeyourcode.ir
 |94|[گزارش کار](https://quera.org/problemset/49535/)|[python](گزارش%20کار/python), |[readme](گزارش%20کار/readme.md), [question's pdf](گزارش%20کار/مسابقه%20_%20گزارش%20کار.pdf), |
 |95|[یافتن عدد اول](https://quera.ir/problemset/593/)|[python](یافتن%20عدد%20اول/python), |[readme](یافتن%20عدد%20اول/readme.md), [question's pdf](یافتن%20عدد%20اول/دانشگاهی%20_%20یافتن%20عدد%20اول.pdf), |
 |96|[یخدارچی](https://quera.org/problemset/3429/)|[node.js](یخدارچی/node.js), [python](یخدارچی/python), |[readme](یخدارچی/README.md), [question's pdf](یخدارچی/مسابقه%20_%20یخدارچی.pdf), |
-|97|[یک_سوال_ساده](https://quera.org/problemset/2885/)|[python](یک_سوال_ساده/python), |[readme](یک_سوال_ساده/README.md), [question's pdf](یک_سوال_ساده/مسابقه%20_%20یک%20سوال%20ساده.pdf), |
+|97|[یک_سوال_ساده](https://quera.org/problemset/2885/)|[python](یک%20سوال%20ساده/python), |[readme](یک%20سوال%20ساده/README.md), [question's pdf](یک%20سوال%20ساده/مسابقه%20_%20یک%20سوال%20ساده.pdf), |
