@@ -13,6 +13,7 @@ showmeyourcode.ir
         table_header = [
             "شماره سؤال",
             "نام سؤال",
+            "youtube",
             "لینک جواب",
             "توضیحات",
             ]
