@@ -46,7 +46,7 @@ showmeyourcode.ir
                     for pdfs in question_path.glob("*.pdf"):
                         if pdfs.is_file():
                             pdf = str(pdfs.relative_to(root_path)).replace(' ','%20').replace('\\','/')
-                            main_readme.write(f"[question's pdf]({pdf}), ")
+                            main_readme.write(f"[pdf]({pdf}), ")
                     main_readme.write("|\n")
 
                     index+=1
