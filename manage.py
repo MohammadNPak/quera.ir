@@ -14,6 +14,7 @@ showmeyourcode.ir
             "شماره سؤال",
             "نام سؤال",
             "لینک جواب",
+            "youtube",
             "توضیحات",
             ]
         with open('README.md',"w",encoding="utf8") as main_readme:
@@ -27,7 +28,8 @@ showmeyourcode.ir
                     # main_readme.write("|"+str(question_path.relative_to(root_path)))
 
                     with open(str(question_path.joinpath("readme.md")),"r",encoding="utf8") as local_readme:
-                        main_readme.write("|"+local_readme.readline())
+                        main_readme.write("|"+local_readme.readline().strip())
+                        main_readme.write("|"+local_readme.readline().strip())
 
                     main_readme.write("|")
                     for language in question_path.glob("*"):
