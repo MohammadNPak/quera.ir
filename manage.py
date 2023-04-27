@@ -14,7 +14,6 @@ showmeyourcode.ir
             "شماره سؤال",
             "نام سؤال",
             "لینک جواب",
-            "youtube",
             "توضیحات",
             ]
         with open('README.md',"w",encoding="utf8") as main_readme:
