@@ -1,4 +1,5 @@
 .venv
+.temp
 get_solution.py
 geckodriver.log
 selected_questions.txt
